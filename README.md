@@ -1,17 +1,29 @@
-<h1 align="center">Hi 👋, I'm Advait</h1>
-<h3 align="center">A Data science and coding enthusiast from India</h3>
+# Hi! I'm Advait 👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=advd-m&label=Profile%20views&color=0e75b6&style=flat" alt="advd-m" /> </p>
+**`Data Science Enthusiast | Data Analytics Explorer`**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=advd-m" alt="advd-m" /></a> </p>
+I'm a B.Tech student pursuing Computer Science with a minor in Data Science.  
+I'm really good with numbers and thus love data.  
 
-- 🌱 I’m currently learning **Deep Learning and Data Analytics**
+---
 
-- 📫 How to reach me **mehendale.advait@gmail.com**
+### 🔧 Tech Stack
+- Python · Pandas · NumPy · Scikit-Learn  
+- SQL · Power BI  
+- C · Java  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🚀 Featured Projects
+- [Coffee Shop Sales Dashboard](https://github.com/ADVD-M/Coffee-Shop-Sales-Analysis) – Interactive sales analysis with SQL + Power BI  
+- [Review Sentiment Analysis](https://github.com/ADVD-M/Review_Sentiment) – Analyzing Amazon reviews through NLP  
+- [ML Investment Recommender](https://github.com/ADVD-M/Investigate-App) – Portfolio recommendation engine with Python  
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-Advait%20Mehendale-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/advait-mehendale/)  
+📧 **mehendale.advait@gmail.com**  
+
+---
+
