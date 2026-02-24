@@ -1,6 +1,6 @@
 # Hi! I'm Advait 👋  
 
-**`Data Science Enthusiast | Data Analytics Explorer`**
+**`Computer Science Student | Data Science Enthusiast`**
 
 I'm a B.Tech student pursuing Computer Science with a minor in Data Science.  
 I'm really good with numbers and thus love data.  
@@ -8,9 +8,10 @@ I'm really good with numbers and thus love data.
 ---
 
 ###  Tech Stack
-- Python · Pandas · NumPy · Scikit-Learn  
-- SQL · Power BI  
-- C · Java  
+- Python · Pandas · NumPy · Scikit-Learn . Tensorflow
+- Streamlit . Flask . Django . Bootstrap . jQuery
+- SQL · Power BI 
+- C · Java . HTML . CSS 
 
 ---
 
