@@ -8,10 +8,10 @@ I'm really good with numbers and thus love data.
 ---
 
 ###  Tech Stack
-- Python · Pandas · NumPy · Scikit-Learn . Tensorflow
-- Streamlit . Flask . Django . Bootstrap . jQuery
+- Python · Pandas · NumPy · Scikit-Learn · TensorFlow
+- Streamlit · Flask · Django · Bootstrap · jQuery
 - SQL · Power BI 
-- C · Java . HTML . CSS 
+- C · Java · HTML · CSS 
 
 ---
 
@@ -23,8 +23,13 @@ I'm really good with numbers and thus love data.
 ---
 
 ###  Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/advait-mehendale/)  
-📧 **mehendale.advait@gmail.com**  
+
+<a href="https://www.linkedin.com/in/advait-mehendale/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:mehendale.advait@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white" alt="Email">
+</a>
 
 ---
-
