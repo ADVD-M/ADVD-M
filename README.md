@@ -23,7 +23,7 @@ I'm really good with numbers and thus love data.
 ---
 
 ###  Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-Advait%20Mehendale-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/advait-mehendale/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/advait-mehendale/)  
 📧 **mehendale.advait@gmail.com**  
 
 ---
